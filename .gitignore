@@ -1,0 +1,13 @@
+# SQLite database
+Banks.db
+
+# Log files
+code_log.txt
+
+# Output data files
+Largest_banks_data.csv
+
+# IDE/editor files (optional)
+__pycache__/
+*.pyc
+.vscode/
